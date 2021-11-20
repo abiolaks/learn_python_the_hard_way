@@ -1,0 +1,13 @@
+Format
+
+Error Type : explanation
+
+NameError: This wil identify a variable in the code that has not be assign to a value or that is not define yet before it used.
+
+Line number help track where the error is .
+
+
+IndentationError: string or code not follow the synthax arrangement
+
+SythaxError :EOL while scanning string literal. not enclosing with closing quotes.
+SyntaxError : invalid syntax, code written violate syntax
