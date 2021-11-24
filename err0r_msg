@@ -11,3 +11,4 @@ IndentationError: string or code not follow the synthax arrangement
 
 SythaxError :EOL while scanning string literal. not enclosing with closing quotes.
 SyntaxError : invalid syntax, code written violate syntax
+SyntaxError: unexpected character after line continuation character
