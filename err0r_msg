@@ -14,3 +14,5 @@ SyntaxError : invalid syntax, code written violate syntax
 SyntaxError: unexpected character after line continuation character
 
 ValueError: not enough values to unpack.This happens when you do not put enough arguments on the command when you run it
+
+IndentationError: expected an indented block, this can arise as a resulting of poor function indenting.
